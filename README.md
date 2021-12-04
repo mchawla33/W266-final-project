@@ -12,6 +12,7 @@ Descriptions of each of the files and folders are below:
 1) CNN_Improved (1).ipynb -- Design, Training & implementation of CNN models
 2) Bert_Implementation_NLP_V1.8_Final.ipynb(& HTML) -- Design, Training & implementation of BERT & roBERTa models.
 3) Exploration EDA - EDA & splitting  the data set into training & test datasets.
+4) Report (1).pdf - Final writeup of the research
 
 Contributors 
 Mrinal Chawla & Adi Khurana 
