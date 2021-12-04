@@ -1,4 +1,4 @@
-# W266-final-project
+# Temporal Features in Sentiment Analysis (W266)
 
 Abstract
 
